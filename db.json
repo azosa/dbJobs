@@ -1,7 +1,8 @@
 { "posts": [ {"title":"Senior Creative Agent","description":"Chief","jobTagIds":["1"],"id":"27"}, 
             {"title":"Regional Markets Developer","description":"Central","jobTagIds":["1","2"],"id":"28"}, 
-            {"title":"Human Functionality Strategist","description":"District","jobTagIds":["2","3"],"id":"29"},{"title":"Principal Web Supervisor","description":"Human","jobTagIds":[],"id":"30"},
+            {"title":"Human Functionality Strategist","description":"District","jobTagIds":["2","3"],"id":"29"},
+            {"title":"Principal Web Supervisor","description":"Human","jobTagIds":["7"],"id":"30"},
             {"title":"Principal Usability Technician","description":"Human","jobTagIds":["1","2","3","4"],"id":"32"},
-            {"title":"Dynamic Paradigm Representative","description":"International","jobTagIds":["1"],"id":"34"},
-            {"title":"Product Markets Representative","description":"Chief","jobTagIds":["2","3"],"id":"36"}
+            {"title":"Dynamic Paradigm Representative","description":"International","jobTagIds":["1","7","8"],"id":"34"},
+            {"title":"Product Markets Representative","description":"Chief","jobTagIds":["2","3","6"],"id":"36"}
            ], "profile": { "name": "azosa" } }
